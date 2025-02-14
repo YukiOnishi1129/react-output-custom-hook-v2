@@ -1,11 +1,11 @@
-# react-output-first-v2
+# react-output-custom-hook-v2
 
 React アウトプットサンプル
 
-useState, Props のみの状態管理で Todo リストの基本的な機能を構築
+useState, Props のみの状態管理で作成した Todo リストに対し、コンポーネントに定義した状態とロジックをカスタムフックに以降したアプリケーション
 
 url はこちら
-https://yukionishi1129.github.io/react-output-first-v2
+https://yukionishi1129.github.io/react-output-custom-hook-v2
 
 ## 目次
 
